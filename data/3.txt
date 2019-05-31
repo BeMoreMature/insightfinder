@@ -1,0 +1,6 @@
+Bonus point:
+In the assignment, we assume that the memory is big enough to store the entire message. Describe a solution that does not depend on this assumption on paper.
+
+Thank you again for your interest in InsightFinder. I look forward to hearing back from you.
+
+Thank you,

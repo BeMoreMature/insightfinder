@@ -1,0 +1,5 @@
+Please complete this task and send me:
+1. A zipped file that includes source code. Please do NOT include any binaries.
+2. Simple instructions on how we should compile and run your code
+3. A simple explanation on the design of your code
+4. A list of third-party libraries used if there is any

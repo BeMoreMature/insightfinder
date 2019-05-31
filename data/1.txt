@@ -1,0 +1,6 @@
+What we would like you to implement (in Java) is the following:
+Write a program that reads N messages from M input files. These input messages can contain any characters but you can assume each message can be delimited by the newline (\n) character. You can also assume the messages will all fit in memory.
+
+Once the reading of the input is complete, create a command line interface for the user which allows them to search for different words existing in the messages. When a word is found in a message, display the matching message. Display any matching words in uppercase. Allow the user to enter -1 to exit the program.
+
+When the program terminates, display a summary containing the number of searches performed along with the number of words matched across ALL input files. You can also include other summary information if you would like.
