@@ -13,10 +13,12 @@ public class readMessage {
         Output all the messages
      */
     public static void readMessage(){
+        System.out.println("All the messages in the input files are as followed: ");
         File dir = new File(directoryPath);
         File[] fileList = dir.listFiles();
         if(fileList != null){
             for(File file : fileList){
+                System.out.println("File "+file);
                 try {
                     BufferedInputStream bufferedInputStream = new BufferedInputStream(new FileInputStream(file));
                     BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(bufferedInputStream, "utf-8"), 5 * 1024 * 1024);
